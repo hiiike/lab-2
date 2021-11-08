@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\oop\lab2.5\lab2.5\Complex.cpp(20,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab2.5\lab2.5\Complex.cpp(25,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab2.5\lab2.5\Complex.cpp(30,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab2.5\lab2.5\Complex.cpp(35,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab2.5\lab2.5\Pair.cpp(28,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab2.5\lab2.5\Pair.cpp(28,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab2.5\lab2.5\Pair.cpp(55,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab2.5\lab2.5\Pair.cpp(55,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     Creating library E:\oop\lab2.5\Debug\UnitTest1.lib and object E:\oop\lab2.5\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\oop\lab2.5\Debug\UnitTest1.dll
