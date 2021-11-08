@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  lab2.4_1_test.cpp
+E:\oop\lab2.4_1\lab2.4_1\Matrix.cpp(109,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab2.4_1\lab2.4_1\Matrix.cpp(126,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+     Creating library E:\oop\lab2.4_1\Debug\lab2.4_1_test.lib and object E:\oop\lab2.4_1\Debug\lab2.4_1_test.exp
+  lab2.4_1_test.vcxproj -> E:\oop\lab2.4_1\Debug\lab2.4_1_test.dll
